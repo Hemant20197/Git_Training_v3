@@ -1,2 +1,2 @@
-hello i am just a sample file
-revert 1
+adding to sample file for merging in develop  
+>>>>>>> parent of 762f001 (in develop before merge)
