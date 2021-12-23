@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-in develop before merge 
-=======
-in main before merge   
->>>>>>> main
+hello i am just a sample file
+revert 1
